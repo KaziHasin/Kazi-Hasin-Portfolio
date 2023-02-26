@@ -6,7 +6,7 @@ $to = "kazihasin12@gmail.com";
 
 $subject = "Contact me on my Portfolio";
 
-
+ 
 $message =  $_POST['message'];
 
 $headers = "From: ". $_POST['email'] . "\r\n" .
